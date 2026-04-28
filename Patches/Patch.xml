@@ -1,0 +1,8 @@
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/HediffDef[defName="VoidTouched"]/stages/li/disablesNeeds</xpath>
+    <value>
+      <li>Food</li>
+    </value>
+  </Operation>
+</Patch>
